@@ -1,3 +1,5 @@
+"""This function is used for defining URL patterns in your Django project. 
+It is a way to map specific URL paths to views or other URL patterns. """
 from django.urls import path, include
 
 from . import views

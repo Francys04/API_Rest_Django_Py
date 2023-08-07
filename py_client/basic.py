@@ -1,3 +1,5 @@
+"""The requests library provides a convenient way to send HTTP requests to web servers and receive HTTP responses. 
+This can be useful for various tasks such as making API calls, fetching data from websites, and interacting with web services."""
 import requests
 
 
